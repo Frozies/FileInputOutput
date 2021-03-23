@@ -102,7 +102,7 @@ public class Main {
             System.out.println("your too small not saving changes");
             System.exit(0);
         }
-        // Now we will write the "clean" version to "clean_entrypoints.json"
+        // Now we will write the "clean" version to "clean_seoexample.csv"
         try (BufferedWriter writer = Files.newBufferedWriter(Paths.get("src/data/" +
                 "clean_seoexample.csv"))) {
             // I am just "try"ing to load the file into the class
