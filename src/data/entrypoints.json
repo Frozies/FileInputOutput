@@ -1,0 +1,16 @@
+{
+  // Bad comment - json shouldn't have comments
+  // This is a json file defining the types of entrypoints
+  SO
+  SE
+  PP
+  BILL
+  /* man this is a terrible json
+  Bill = billboard
+  pp = personnel provided
+  so = social media
+  se = search engine
+  ven = paid ad (vendor)
+  */
+  VEN
+}
